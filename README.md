@@ -1,3 +1,8 @@
+Login: Phát
+regist: Nhi
+thêm xóa todo: Yang
+thêm xóa task( list task of todo): Hương
+
 # TodolistFE
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
